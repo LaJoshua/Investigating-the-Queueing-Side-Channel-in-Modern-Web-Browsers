@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Task Collector",
+  "version": "3.0",
+  "description": "Collects various tasks from the main thread.",
+  "permissions": ["activeTab", "scripting", "downloads"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
+  
+  
