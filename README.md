@@ -6,17 +6,17 @@ Project Description: "Queues are widely used to enable resource sharing in moder
 
 UNC-Intel: this file contains:
 
-Two Distribution Histogram Code
--Distribution Histogram of Regular Response Times Vs. Distribution Histogram of Adversary Response Times
+Two Distribution Histogram Code:
+- Distribution Histogram of Regular Response Times Vs. Distribution Histogram of Adversary Response Times
 - Distribution Histogram of Regular Services Times Vs. Distribution Histogram of Adversary Response Times
 
 
 
-Two Folder 
+Two Folders: 
 - Google Chrome Extension Code V.3.0
 - Website Data Collected
 
-One Presentation about 
+One Presentation Titled:
 - Investigating the Queueing Side Channel in Modern Web Browsers
 
 
